@@ -9,6 +9,7 @@ R code to produce and summarise 'local transmission lineages' and plot a map of 
 1) split_and_map.R  
 2) LTL.R  
 3) Cluster_duration_code.R  
+
 THe first file generates the maps presented in the thesis together with an animated map over time; The second file produces full sets of local transmission lineages and the combined tree and case figure; The third file summarises the LTLs into the plots of time to sampling and cluster type presented in the thesis.  
 
 
